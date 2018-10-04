@@ -1,0 +1,47 @@
+.app{
+    min-height: 80vh;
+    margin-top: 100px;
+    padding-bottom: 20px;
+}
+
+
+/* login
+---------------- */
+
+#login-page{
+    padding-top: 30px;
+}
+
+/* validation 
+---------------------------------------------*/
+.invalid-data {
+    border: 1px solid red!important;
+    transition: border-width 0.3s linear;
+}
+
+.invalid-data:hover,
+.invalid-data:focus,
+.invalid-data:active {
+    border-width: 2px;
+    outline: none;
+    box-shadow: none;
+    border-color: red;
+}
+
+.alert-box {
+    /* position: fixed; */
+    /* bottom: 18vh; */
+    /* right: 10px; */
+    padding: 5px;
+    background: #eaf3ec;
+    text-align: center;
+    min-width: 300px;
+    min-height: 40px;
+}
+
+p.alert-data {
+    margin: auto;
+    color: #1BBD36;
+}
+
+/* validatio-end */
