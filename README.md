@@ -1,6 +1,6 @@
 # TicketHub
 
-Ticket Hub is a web application development in php of mysql. This application is a place where user can find ticket for various shows of events and book their tickets. Events  and show coordinator has there profile and they can post their details about their events and shows with booking details and price.
+Ticket Hub is a web application developed in php and mysql. This application is a place where user can find ticket for various shows of events and book their tickets. Events  and show coordinator has there profile and they can post their details about their events and shows with booking details and price.
 The user can go through these posts and search for a specific one and book tickets. This application has also options for making payments ,including some service charge which credits into the account of the admin.
 Admin controls the user and coordinator profile. Admin has options to verify coordinator profile. Admin can also manages the events and show categories.
 
